@@ -1,0 +1,64 @@
+#title {
+  font-family: 'Rouge Script', cursive;
+  font-size: 48pt;
+  background-color: #99CCFF
+}
+
+#description{
+  font-style: italic;
+  font-size:12pt;
+}
+body{
+  font-family: "Baskerville";
+  font-size: 14pt;
+}
+
+.maggie{
+  font-family: 'Lacquer', sans-serif;
+  font-size:20pt;
+}
+
+header#page_header nav ul li{
+  list-style:none;
+}
+
+a{
+  text-decoration: none;
+  float: none;
+  height: 30px;
+  line-height: 30px;
+  padding: 10px;
+  margin: 5px;
+  border-top-left-radius:8px;
+  border-top-right:8px;
+  background-color: #99CCFF;
+  font-size: 20px;
+  color: #000000;
+  font-family: "Baskerville";
+
+}
+
+a:hover{
+  background-color:#A9A9A9;
+  font-family:"Baskerville";
+}
+
+#chipmag{
+  width:0px;
+  height:0px;
+}
+
+#bfmeme{
+  width: 300px;
+  height: 233px;
+  TOP: 10px;
+  LEFT: 10px;
+}
+#tswift{
+  width: 178.32px;
+  height: 175px;
+}
+#shemad{
+  width:325px;
+  height: 250px;
+}
